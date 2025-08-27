@@ -13,15 +13,5 @@
 *   `$allowedMime`: Allowed mime types
 *   `$baseurl`: Path of index.php
 
-# License #
-This code is released under the [WTFPL V2](http://www.wtfpl.net/ "WTFPL V2") license
-
 # Demo #
 A demo is avaiable [here](https://img.cecilefy.xyz/ "here")
-
-# Warranty #
-This project is released __without warranty__.  
-I've coded this without prior knowledge of PHP in few hours, so it's probably full of bad habit.  
-Don't complain with me if someone uses this to hack your server.  
-You may want to disable PHP in the "up" folder, to increase security.  
-Remember to set a size limit in your php.ini and/or your webserver too.
