@@ -6,7 +6,9 @@
 5. That's it
 
 # Configuration #
-*   `$title`: Title of the page
+*   `$title1`: Title of the page
+*   `$title2`: Title of the tab page
+*   `$github`: Your GitHub
 *   `$filedir`: Directory where files will get uploaded
 *   `$maxsize`: Maximus size (in bytes) of the uploaded file
 *   `$allowedExts`: Allowed extensions
