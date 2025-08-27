@@ -17,7 +17,7 @@
 This code is released under the [WTFPL V2](http://www.wtfpl.net/ "WTFPL V2") license
 
 # Demo #
-A demo is avaiable [here](http://spittiepie.com/img/ "here")
+A demo is avaiable [here](https://img.cecilefy.xyz/ "here")
 
 # Warranty #
 This project is released __without warranty__.  
